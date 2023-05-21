@@ -1,0 +1,5 @@
+fastapi==0.95.2
+passlib==1.7.3
+PyJWT==2.3.0
+PyJWT==2.7.0
+tortoise==0.1.1
